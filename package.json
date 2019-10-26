@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/andresfgiraldo/aprendo-nodejs/issues"
   },
-  "homepage": "https://github.com/andresfgiraldo/aprendo-nodejs#readme"
+  "homepage": "https://github.com/andresfgiraldo/aprendo-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7",
+    "validator": "^11.1.0"
+  }
 }
