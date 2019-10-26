@@ -3,7 +3,7 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
-var MdlUsuario = Schema({
+var UsuarioSchema = Schema({
     username: String,
     email: String,
     password: String,
@@ -18,4 +18,4 @@ var MdlUsuario = Schema({
     fecha_sistema: { type: Date, default: Date.now },
 });
 
-module.exports = mongoose.model('MdlUsuario', MdlUsuario);
+module.exports = mongoose.model('Usuario', UsuarioSchema, 'usr_usuarios');
