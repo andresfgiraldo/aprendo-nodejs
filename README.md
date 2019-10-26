@@ -1,1 +1,3 @@
 # aprendo-nodejs
+
+npm init
