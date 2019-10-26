@@ -1,0 +1,19 @@
+{
+  "name": "backend-nodejs",
+  "version": "1.0.0",
+  "description": "mi primer backend con NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresfgiraldo/aprendo-nodejs.git"
+  },
+  "author": "Andres Giraldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresfgiraldo/aprendo-nodejs/issues"
+  },
+  "homepage": "https://github.com/andresfgiraldo/aprendo-nodejs#readme"
+}
