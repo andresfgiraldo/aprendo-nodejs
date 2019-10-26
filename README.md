@@ -1,6 +1,6 @@
 # aprendo-nodejs
 
-## Capitulo 64
+
 
 ### Inicializar el proyecto node
 ```
@@ -8,7 +8,7 @@ npm init
 ```
 
 
-## Capitulo 65
+
 
 ### instalar express como dependencia del proyecto
 Rutas y protocolo HTTP
@@ -60,10 +60,3 @@ npm start
 
 
 
-## Capitulo 67
-
-### Conectar a MongoDB
-Rutas y protocolo HTTP
-```
-npm install --save express
-```
